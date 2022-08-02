@@ -36,7 +36,7 @@ In the last few decades, there's been an explosive increase in the average perso
 Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions in North America as well as internationally. This dataset consists of monthly average stock closing prices of Amazon over a period of 12 years from 2006 to 2017. Build a time series model using the AR, MA, ARMA and ARIMA models in order to forecast the stock closing price of Amazon.
 
 ### Results
-All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
+All exploratory and inferential statistical analysis, visualization, decision tree, randome forest and time series are included in the following project notebooks:
 - Project 1: [Jupyter Notebook](Learner_Notebook_Classification_PDS.ipynb)  
 - Project 2: [Jupyter Notebook](Learner_Notebook_Project_Time_Series.ipynb) 
 
